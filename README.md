@@ -17,7 +17,7 @@ This project analyzes Nike shoe sales data.
 - Power BI (for dashboard building)
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]
+![Dashboard Screenshot](https://github.com/yashika230/NIKE---Dashboard/blob/main/screenshot.png.png)
 
 ## 💡 Insights
 - Online sales slightly outperform retail
